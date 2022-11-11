@@ -9,7 +9,7 @@
 
 
 
-## bei adding objects to the Repository class you can test the List 
+## by adding objects to the Repository class you can test the List 
 
 <img width="472" alt="Screenshot 2022-11-09 143015" src="https://user-images.githubusercontent.com/55302817/200848661-623350e3-2dfd-4b55-889f-2fd224f427b2.png">
 
