@@ -22,7 +22,7 @@
 
 # important
 
-#### To aviod errors during the runing the Program you need to delete `package-lock.json` and then run the command npm start
+#### To aviod errors during the runing the program you need to delete `package-lock.json` and then run the command npm start
 
 <img width="225" alt="Unbenannt" src="https://user-images.githubusercontent.com/55302817/208267892-39feda55-da7c-4b22-adbb-003ac18cca99.png">
 
