@@ -23,4 +23,5 @@
 ## important
 ## To aviod errors during the operation of the Program you need to delete package-lock.json and then run the command npm start
 
-![image](https://user-images.githubusercontent.com/55302817/208267749-0eb2a1e5-d4c1-4923-9081-3822e16fa02b.png)
+<img width="225" alt="Unbenannt" src="https://user-images.githubusercontent.com/55302817/208267892-39feda55-da7c-4b22-adbb-003ac18cca99.png">
+
