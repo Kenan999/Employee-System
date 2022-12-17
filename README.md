@@ -20,3 +20,7 @@
 <img width="902" alt="Screenshot 2022-11-09 141228" src="https://user-images.githubusercontent.com/55302817/200845343-887002f1-b6c1-4418-b2d4-4d646797dc97.png">
 
 
+## important
+## To aviod errors during the operation of the Program you need to delete package-lock.json and then run the command npm start
+
+![image](https://user-images.githubusercontent.com/55302817/208267749-0eb2a1e5-d4c1-4923-9081-3822e16fa02b.png)
