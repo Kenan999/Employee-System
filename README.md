@@ -25,7 +25,7 @@
 
 <img width="225" alt="Unbenannt" src="https://user-images.githubusercontent.com/55302817/208267892-39feda55-da7c-4b22-adbb-003ac18cca99.png">
 
-##installing the react app
+installing the react app
 `npm install` and after it run the command
 `npm start`
 
